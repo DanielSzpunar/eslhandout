@@ -1,0 +1,130 @@
+@media all and (max-width: 767px) {
+    .global-container {
+        margin-top: 0;
+        background-image: none;
+    }
+#jumbotronH1 {
+    font-size: 44px;
+    font-family: Roboto;
+  }
+}
+
+.navbar-toggle:before {
+    content:"Menu";
+    left:-50px;
+    top:4px;
+    position:absolute;
+    width:50px;
+    color:white;
+}
+.jumbotron-gradient {
+  background: #4776E6;
+  background: -moz-linear-gradient(top, #4776E6 0%, #8E54E9 100%); 
+  background: -webkit-linear-gradient(top, #4776E6 0%, #8E54E9 100%);
+  background: linear-gradient(top, #4776E6 0%, #8E54E9 100%);
+}
+#jumbotronH1 {
+  text-align: center;
+  color:white;
+  font-family: Roboto;
+}
+.small {
+  max-width: 350px;
+  margin: 5px auto;
+  border-width: 1px;
+  border-color: white;
+  text-align: center;  
+}
+#simple {
+  color:white;
+  display: none;
+  font-family: 'Raleway', sans-serif;
+  font-family: Roboto;
+  font-size:18px;
+}
+#fast {
+  display: none;
+  font-family: 'Raleway', sans-serif;
+  font-family: Roboto;
+  font-size:18px;
+}
+#free {
+  display: none;
+  font-family: 'Raleway', sans-serif;
+  font-family: Roboto;
+  font-size:18px;
+}
+.subheading {
+  text-align: center;
+  font-size: 18px;
+  padding-top: 10px;
+}
+.jumbotronH2 {
+  text-align: center;
+  color: white;
+  font-size: 20px;
+  padding-bottom: 10px;
+}
+.jumbo-a-tag {
+  text-decoration: none !important;
+  color:white;
+}
+.jumbo-a-tag:link {
+    color: white;
+    cursor:pointer;
+}
+/* visited link */
+.jumbo-a-tag:visited {
+    color: white;
+    cursor:pointer;
+}
+/* mouse over link */
+.jumbo-a-tag:hover {
+  cursor:pointer;
+  font-size: 20px;
+  text-shadow: 2px 2px black;
+}
+/* selected link */
+.jumbo-a-tag:active {
+    color: white;
+    cursor:pointer;
+}
+.h3header {
+  text-align: center;
+  color:palevioletred;
+  text-decoration:underline
+}
+
+.alist{
+  font-size: 16px;
+  display: block;
+  text-align: center;
+  padding:3px;
+}
+.alist:link {
+  text-decoration:none;
+  
+}
+
+/*.alist:visited {
+  color:green
+}*/
+
+.alist:hover {
+  color:lightcoral;
+  
+}
+
+.alist:active {
+  
+}
+.list {
+  
+}
+
+
+
+
+
+
+

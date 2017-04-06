@@ -1,0 +1,233 @@
+/*
+<b></b>
+<span lang="ko"></span>
+<meta name="description" content="">
+<meta name="author" content="Daniel Szpunar">
+*/
+/* for navbar, font-family: 'Roboto', sans-serif; and for h1 font-family: 'Open Sans', sans-serif; for pink span <span style="color:#a64dff"> 
+this color is green --> <span style="color:#86cb79">
+for red <span style="color:#cb7986">
+
+class="babolevel"
+<br><img src="../img/ENTER.jpg" class="pic img-responsive img-rounded pic" alt="ENTER"><br>
+*/
+
+.row-header {
+    margin: 0px auto;
+    padding: 0px auto;
+}
+
+.row-content {
+    margin: 0px auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px ridge;
+    min-height: 400px;
+}
+
+
+/*.row-footer{
+    background-color: #AfAfAf;
+    margin: 0px 0px 10px 0px;
+    padding: 20px 0px 20px 0px;
+    margin:0px auto; this was the original
+    border-radius: 10px;
+}*/
+
+.jumbotron {
+    padding: 70px 30px 70px 30px;
+    margin: 0px auto;
+    background: #7986CB;
+    color: white;
+    /*
+    position: relative;
+    background: url("../img/jumbotest.jpg") center center;
+    width: 100%;
+    height:;
+    background-size:cover;
+    overflow:hidden; This is jumbotron picture*/
+    /*This is for the image in the background.*/
+    background: url(../img/jumbotron.jpg) center center no-repeat;
+    background-size:cover;
+}
+
+address {
+    font-size: 80%;
+    margin: 0px;
+    color: #0f0f0f;
+}
+
+body {
+    padding: 50px 0px 0px 0px;
+    z-index: 0;
+}
+
+
+/*
+.navbar-inverse {
+     background: #303F9F;
+}
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus {
+    color: #fff;
+    background: #1A237E;
+}
+
+.navbar-inverse .navbar-nav > .open > a,
+ .navbar-inverse .navbar-nav > .open > a:hover,
+ .navbar-inverse .navbar-nav > .open > a:focus {
+    color: #fff;
+    background: #1A237E;
+}
+
+.navbar-inverse .navbar-nav .open .dropdown-menu> li> a,
+.navbar-inverse .navbar-nav .open .dropdown-menu {
+    background-color: #303F9F;
+    color:#eeeeee;
+}
+
+.navbar-inverse .navbar-nav .open .dropdown-menu> li> a:hover {
+    color:#000000;
+}*/
+
+p {
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    color: #7986CB;
+}
+
+h3 {
+    font-family: 'Roboto', sans-serif;
+}
+
+h4 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px
+}
+
+h5 {
+    font-family: 'Roboto', sans-serif;
+}
+
+.commonh1 {
+    color: #7986CB;
+    text-align: center;
+    border: 3px solid #7986CB;
+    border-radius: 17px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    margin-bottom: 30px;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+
+/*This .emkli is used in the esl topics, mistakes, articles and conversations selection page ul*/
+
+.emkmli {
+    font-size: 18px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.hover a:hover {
+    color: #a64dff;
+    text-decoration: none;
+}
+
+.breadcrumb {
+    text-align: center;
+}
+/*babolevel and correct conflict with colors since babolevel comes  before correct the color is overrided by correct*/
+.babolevel {
+    text-align: center;
+    color: #9579cb;
+}
+.correct {
+    color: #86cb79;
+    font-size: 22px;
+    
+}
+
+.incorrect {
+    color: #cb7986;
+    font-size: 22px;
+}
+
+.list-group {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+}
+
+.h2links {
+    text-decoration: none !important;
+    color: #7986CB;
+}
+
+.h2links:hover {
+    color: #86cb79;
+}
+
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+
+
+/*This is the shadow effect on every button within the website.*/
+
+.btn {
+    box-shadow: 14px 17px 25px -2px rgba(0, 0, 0, 0.42);
+    transition-delay: 1.9s transition-duration: 1.8s;
+    
+}
+
+.btn:hover {
+transform: translateY(-3px);
+}
+
+.h2center {
+    text-align: center;
+    font-variant: small-caps;
+    font-size: 30px
+    
+}
+/*This is for all the images found in the files. */
+.pic {
+ margin: 0 auto;
+}
+/*this is for the list located on the index.html */
+.listcenter {
+text-align: center;
+}
+/*This is to create the shadow efect on the jumbotron lettering*/
+.fontoutline {
+    color:floralwhite;
+    text-shadow:
+    -2px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 2px 0 #000,
+    1px 4px 0 #000;  
+}
+
+.adsensediv {
+text-align: center;
+    
+}
+
+
+/*this is for the download button or for anythinig you need centered*/
+.text-center {
+    text-align: center;
+}
+
+
+
+

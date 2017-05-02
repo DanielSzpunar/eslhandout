@@ -95,7 +95,7 @@
   text-decoration:underline
 }
 .h3header:hover {
-  color:#86cb79;
+  color:#86cb79 !important;
 }
 
 .alist{

@@ -95,7 +95,7 @@
   text-decoration:underline
 }
 .h3header:hover {
-  color:#86cb79 !important;
+  color:#86cb79;
 }
 
 .alist{
@@ -124,6 +124,8 @@
 .list {
   
 }
+
+
 
  
 

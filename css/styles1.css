@@ -129,6 +129,9 @@
  .indexH3Header:hover {
   color: darkseagreen;
 }
+.indexH3Header:active {
+  color: palevioletred;
+}
 
 
 

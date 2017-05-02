@@ -89,11 +89,11 @@
     color: white;
     cursor:pointer;
 }
-.h3header {
+/*.h3header {
   text-align: center;
   color:palevioletred;
   text-decoration:underline
-}
+}*/
 
 .alist{
   font-size: 16px;
@@ -122,11 +122,16 @@
   
 }
 .indexH3Header {
-  color: palevioletred !important;
+  color: palevioletred;
   
 }
 .indexH3Header:hover {
-  color: darkseagreen !important;
+  color: darkseagreen;
+}
+.h3header {
+  text-align: center;
+  color:palevioletred;
+  text-decoration:underline
 }
 
 

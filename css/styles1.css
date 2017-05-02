@@ -121,15 +121,15 @@
 .list {
   
 }
- .indexH3Header {
+ a.indexH3Header {
   color: palevioletred;
   
   
 }
- .indexH3Header:hover {
+ a.indexH3Header:hover {
   color: darkseagreen;
 }
-.indexH3Header:active {
+a.indexH3Header:active {
   color: palevioletred;
 }
 

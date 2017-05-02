@@ -122,16 +122,16 @@
   
 }
 .indexH3Header {
-  color: palevioletred;
+  color: palevioletred !important;
   
 }
 .indexH3Header:hover {
-  color: darkseagreen;
+  color: darkseagreen !important;
 }
 .h3header {
   text-align: center;
-  color:palevioletred;
-  text-decoration:underline
+  color:palevioletred !important;
+  text-decoration:underline;
 }
 
 

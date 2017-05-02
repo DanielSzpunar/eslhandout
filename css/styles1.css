@@ -121,6 +121,13 @@
 .list {
   
 }
+.indexH3Header {
+  color: palevioletred;
+  
+}
+.indexH3Header:hover {
+  color: darkseagreen;
+}
 
 
 

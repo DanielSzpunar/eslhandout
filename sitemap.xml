@@ -6,568 +6,727 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
+
 <url>
   <loc>https://www.eslhandout.com/</loc>
-  <lastmod>2017-03-15T13:17:32+00:00</lastmod>
+  <lastmod>2018-02-24T05:36:00+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/index.html</loc>
-  <lastmod>2017-03-15T13:17:32+00:00</lastmod>
+  <lastmod>2018-02-24T05:36:00+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/lessons/lessons.html</loc>
   <lastmod>2017-03-05T10:55:50+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/mistakes/mistakes.html</loc>
-  <lastmod>2017-01-07T11:29:32+00:00</lastmod>
+  <lastmod>2017-07-08T23:03:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/esl/esl.html</loc>
-  <lastmod>2016-12-04T11:25:57+00:00</lastmod>
+  <lastmod>2018-02-24T05:46:29+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/articles/articles.html</loc>
   <lastmod>2016-07-27T14:37:27+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/about.html</loc>
   <lastmod>2016-07-27T14:31:49+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/lessons/adjectives-ed-ing.html</loc>
   <lastmod>2016-10-24T15:13:06+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/lessons/adjective-order-lesson.html</loc>
   <lastmod>2016-10-24T15:12:38+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/lessons/appointments-lesson.html</loc>
   <lastmod>2016-07-26T15:17:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/lessons/because-lesson.html</loc>
   <lastmod>2016-10-24T15:14:04+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/lessons/business-introductions-lesson.html</loc>
   <lastmod>2016-10-24T15:14:22+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/lessons/by-vs-until-lesson.html</loc>
   <lastmod>2016-10-24T15:14:40+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/lessons/chores-lesson.html</loc>
   <lastmod>2016-07-26T15:34:28+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/lessons/common-1-lessons.html</loc>
   <lastmod>2016-10-24T08:03:53+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/lessons/common-2-lesson.html</loc>
   <lastmod>2016-10-24T08:03:48+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/lessons/common-3-lesson.html</loc>
   <lastmod>2016-10-24T08:04:13+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/lessons/common-4-lesson.html</loc>
   <lastmod>2016-12-07T13:01:15+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/lessons/communication-lesson.html</loc>
   <lastmod>2017-01-22T12:50:35+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/lessons/could-lesson.html</loc>
   <lastmod>2016-07-26T15:39:35+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/lessons/do-you-mind-lesson.html</loc>
   <lastmod>2016-10-24T15:15:43+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/lessons/expressions1-lesson.html</loc>
   <lastmod>2017-01-23T14:18:49+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/lessons/extreme-adjectives1.html</loc>
   <lastmod>2016-10-24T15:16:02+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/lessons/how-lesson.html</loc>
   <lastmod>2016-07-26T15:45:12+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/lessons/personal-dev-lesson.html</loc>
   <lastmod>2016-10-24T15:16:30+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/lessons/prefixes-lesson.html</loc>
   <lastmod>2016-11-07T10:49:47+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/lessons/prefixes2-lesson.html</loc>
   <lastmod>2016-11-27T08:08:10+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/lessons/questionquiz-lesson.html</loc>
   <lastmod>2016-11-20T13:59:06+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/lessons/role-playing-1-lesson.html</loc>
   <lastmod>2016-07-26T15:52:58+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/lessons/roleplaying-2-lesson.html</loc>
   <lastmod>2016-07-26T16:00:57+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/lessons/vocab-3-lesson.html</loc>
   <lastmod>2017-03-05T10:53:06+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/lessons/vocab-2-lesson.html</loc>
   <lastmod>2016-10-24T15:17:45+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/lessons/vocab-1-lesson.html</loc>
   <lastmod>2016-10-24T15:17:31+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/esl/appearance-esl.html</loc>
-  <lastmod>2016-07-25T14:11:36+00:00</lastmod>
+  <lastmod>2018-02-24T05:42:12+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/esl/business-esl.html</loc>
-  <lastmod>2016-07-25T14:26:52+00:00</lastmod>
+  <lastmod>2018-02-24T05:42:37+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/esl/coffee-esl.html</loc>
-  <lastmod>2016-08-28T13:04:08+00:00</lastmod>
+  <lastmod>2018-02-24T05:44:49+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/esl/culture-esl.html</loc>
-  <lastmod>2016-07-25T14:39:10+00:00</lastmod>
+  <lastmod>2018-02-24T05:45:01+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/esl/daily-life-esl.html</loc>
-  <lastmod>2016-07-25T14:49:36+00:00</lastmod>
+  <lastmod>2018-02-24T05:45:19+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/esl/dating-esl.html</loc>
-  <lastmod>2016-10-27T01:24:24+00:00</lastmod>
+  <lastmod>2018-02-24T05:45:39+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/esl/education-esl.html</loc>
-  <lastmod>2016-07-25T15:02:01+00:00</lastmod>
+  <lastmod>2018-02-24T05:45:56+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/esl/exercise-sports-esl.html</loc>
-  <lastmod>2016-07-25T15:06:38+00:00</lastmod>
+  <lastmod>2018-02-24T05:46:48+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/esl/family-esl.html</loc>
-  <lastmod>2016-10-25T02:10:57+00:00</lastmod>
+  <lastmod>2018-02-24T05:47:04+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/esl/food-esl.html</loc>
-  <lastmod>2016-07-25T15:13:42+00:00</lastmod>
+  <lastmod>2018-02-24T05:47:19+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/esl/gender-roles-esl.html</loc>
-  <lastmod>2016-07-25T15:22:51+00:00</lastmod>
+  <lastmod>2018-02-24T05:47:39+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/esl/health-medicine-esl.html</loc>
-  <lastmod>2016-07-25T15:30:30+00:00</lastmod>
+  <lastmod>2018-02-24T05:48:15+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/esl/hobbies-interests-esl.html</loc>
-  <lastmod>2016-07-25T15:36:02+00:00</lastmod>
+  <lastmod>2018-02-24T05:48:13+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/esl/job-interview-esl.html</loc>
-  <lastmod>2016-08-31T08:43:05+00:00</lastmod>
+  <lastmod>2018-02-24T05:48:31+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/esl/jobs-and-occupation-esl.html</loc>
-  <lastmod>2016-11-13T07:26:39+00:00</lastmod>
+  <lastmod>2017-07-10T22:33:31+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/esl/marriage-esl.html</loc>
-  <lastmod>2016-07-25T15:37:44+00:00</lastmod>
+  <lastmod>2018-02-24T05:49:09+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/esl/parenting-esl.html</loc>
-  <lastmod>2016-08-15T09:59:56+00:00</lastmod>
+  <lastmod>2018-02-24T05:55:26+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/esl/personality-esl.html</loc>
-  <lastmod>2016-07-25T15:42:47+00:00</lastmod>
+  <lastmod>2018-02-24T05:49:43+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/esl/salary-minimum-wage-esl.html</loc>
-  <lastmod>2016-12-04T11:24:26+00:00</lastmod>
+  <lastmod>2018-02-24T05:50:01+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/esl/technology-esl.html</loc>
-  <lastmod>2016-07-25T15:47:17+00:00</lastmod>
+  <lastmod>2018-02-24T05:50:15+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/esl/transitions-esl.html</loc>
-  <lastmod>2016-08-07T10:12:51+00:00</lastmod>
+  <lastmod>2018-02-24T05:53:39+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/esl/transportation-esl.html</loc>
-  <lastmod>2016-07-25T15:51:02+00:00</lastmod>
+  <lastmod>2018-02-24T05:53:17+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/esl/travel-esl.html</loc>
-  <lastmod>2016-07-25T15:55:51+00:00</lastmod>
+  <lastmod>2018-02-24T05:53:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.eslhandout.com/mistakes/soso-mist.html</loc>
+  <lastmod>2017-07-08T23:21:03+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/mistakes/cup-of-beer-mist.html</loc>
-  <lastmod>2016-09-18T05:54:19+00:00</lastmod>
+  <lastmod>2017-08-15T17:10:34+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/mistakes/dutch-pay-mist.html</loc>
-  <lastmod>2016-07-27T13:58:59+00:00</lastmod>
+  <lastmod>2017-08-15T17:12:09+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/mistakes/make-a-girlfriend-mist.html</loc>
-  <lastmod>2016-07-27T14:03:16+00:00</lastmod>
+  <lastmod>2017-08-15T17:12:39+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/mistakes/next-next-day-mist.html</loc>
-  <lastmod>2016-07-27T14:05:41+00:00</lastmod>
+  <lastmod>2017-08-15T17:14:14+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/mistakes/one-times-mist.html</loc>
-  <lastmod>2016-09-04T10:38:06+00:00</lastmod>
+  <lastmod>2017-08-15T17:14:12+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/mistakes/personal-issues-mist.html</loc>
-  <lastmod>2016-07-27T14:09:52+00:00</lastmod>
+  <lastmod>2017-08-15T17:14:11+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/mistakes/take-a-rest-mist.html</loc>
-  <lastmod>2016-08-03T08:22:06+00:00</lastmod>
+  <lastmod>2017-08-15T17:14:09+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/mistakes/these-days-mist.html</loc>
-  <lastmod>2016-07-27T14:18:55+00:00</lastmod>
+  <lastmod>2017-08-15T17:14:08+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/mistakes/toilet-mist.html</loc>
-  <lastmod>2016-08-14T16:50:48+00:00</lastmod>
+  <lastmod>2017-08-15T17:14:05+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/articles/facing-our-fears-article.html</loc>
   <lastmod>2016-07-27T14:44:27+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/articles/human-brain-article.html</loc>
   <lastmod>2016-07-27T14:46:44+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/articles/korea-ill-prepared-article.html</loc>
   <lastmod>2016-07-27T14:49:27+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/contact.html</loc>
   <lastmod>2016-07-27T14:27:59+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/privacy.html</loc>
-  <lastmod>2016-07-27T14:26:56+00:00</lastmod>
+  <lastmod>2017-07-10T22:07:05+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/lessons/travel-vocab-lesson.html</loc>
   <lastmod>2017-01-08T12:49:55+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/lessons/weather-lesson.html</loc>
   <lastmod>2017-01-03T14:44:50+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/lessons/travel-quiz-lesson.html</loc>
   <lastmod>2016-09-12T08:42:48+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/lessons/time-since-for-lesson.html</loc>
   <lastmod>2016-09-07T08:44:47+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/lessons/time-of-day-lesson.html</loc>
   <lastmod>2016-07-26T16:07:20+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/lessons/food-lesson.html</loc>
   <lastmod>2016-06-27T15:09:57+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/adjectives-ed-ing.pdf</loc>
   <lastmod>2016-07-19T15:04:46+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/adjective-order-lesson.pdf</loc>
   <lastmod>2016-09-18T07:48:44+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/appointments-lesson.pdf</loc>
   <lastmod>2016-04-19T14:32:23+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/because-lesson.pdf</loc>
   <lastmod>2016-06-12T09:12:13+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/business-introductions-lesson.pdf</loc>
   <lastmod>2016-10-12T16:17:17+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/by-vs-until-lesson.pdf</loc>
   <lastmod>2016-09-06T08:52:44+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/chores-lesson.pdf</loc>
   <lastmod>2016-05-08T11:57:17+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/common-1-lessons.pdf</loc>
   <lastmod>2016-07-16T10:38:08+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/common-2-lesson.pdf</loc>
   <lastmod>2016-09-22T08:41:30+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/common-3-lesson.pdf</loc>
   <lastmod>2016-10-05T08:45:17+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/common-4-lesson.pdf</loc>
   <lastmod>2016-12-07T12:50:17+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/communication-lesson.pdf</loc>
   <lastmod>2017-01-22T12:47:50+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/could-lesson.pdf</loc>
   <lastmod>2016-04-21T05:33:15+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/do-you-mind-lesson.pdf</loc>
   <lastmod>2016-08-03T15:33:10+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/expression1-lesson.pdf</loc>
   <lastmod>2017-01-23T14:15:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/extreme-adjectives1-lesson.pdf</loc>
   <lastmod>2016-06-28T15:55:32+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/how-lesson.pdf</loc>
   <lastmod>2016-06-09T15:34:12+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/personal-dev-lesson.pdf</loc>
   <lastmod>2016-08-21T14:02:04+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/prefixes-lesson.pdf</loc>
   <lastmod>2016-11-07T10:36:59+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/prefixes2-lessons.pdf</loc>
   <lastmod>2016-11-27T08:01:29+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/question-quiz-lesson.pdf</loc>
   <lastmod>2016-11-20T13:57:00+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/role-playing-1-lesson.pdf</loc>
   <lastmod>2016-04-19T14:14:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/role-playing-2-lesson.pdf</loc>
   <lastmod>2016-05-31T05:40:25+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/vocab-3-lesson.pdf</loc>
   <lastmod>2017-03-05T10:44:29+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/vocab-2-lesson.pdf</loc>
   <lastmod>2016-09-28T08:48:57+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/vocab-1-lesson.pdf</loc>
   <lastmod>2016-09-26T08:36:36+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/appearance-esl.pdf</loc>
   <lastmod>2016-06-11T07:25:56+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/business-esl.pdf</loc>
   <lastmod>2016-06-11T12:58:34+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/coffee-esl.pdf</loc>
   <lastmod>2016-08-28T13:07:06+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/culture-esl.pdf</loc>
   <lastmod>2016-06-12T06:55:44+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/daily-life-esl.pdf</loc>
   <lastmod>2016-06-08T13:53:50+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/dating-esl.pdf</loc>
   <lastmod>2016-06-14T14:10:21+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/education-esl.pdf</loc>
   <lastmod>2016-06-24T17:33:37+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/exercise-sports-esl.pdf</loc>
   <lastmod>2016-06-20T08:23:32+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/family-esl.pdf</loc>
   <lastmod>2016-10-24T15:01:23+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/food-esl.pdf</loc>
   <lastmod>2016-06-15T13:58:13+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/gender-roles-esl.pdf</loc>
   <lastmod>2016-07-04T15:52:29+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/health-medicine-esl.pdf</loc>
   <lastmod>2016-06-22T15:01:15+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/hobbies-interests-esl.pdf</loc>
   <lastmod>2016-06-21T16:03:15+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/job-interview-esl.pdf</loc>
   <lastmod>2016-08-31T08:35:36+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/jobs-and-occupation-esl.pdf</loc>
   <lastmod>2016-11-13T07:22:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.eslhandout.com/pdf/marriage-esl.pdf</loc>
+  <lastmod>2017-08-15T17:45:57+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/parenting-esl.pdf</loc>
   <lastmod>2016-08-15T09:59:30+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/personality-esl.pdf</loc>
   <lastmod>2016-06-20T15:25:05+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/salary-minimum-wage-esl.pdf</loc>
   <lastmod>2016-12-04T11:21:04+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/technology-esl.pdf</loc>
   <lastmod>2016-06-23T15:16:56+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/transitions-esl.pdf</loc>
   <lastmod>2016-08-07T10:07:51+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/transportation-esl.pdf</loc>
   <lastmod>2016-06-29T17:03:14+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/travel-esl.pdf</loc>
   <lastmod>2016-06-16T15:12:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.eslhandout.com/pdf/so-so-mist.pdf</loc>
+  <lastmod>2017-07-08T22:47:56+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/cup-of-beer-mist.pdf</loc>
   <lastmod>2016-09-18T05:49:42+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/dutch-pay-mist.pdf</loc>
   <lastmod>2016-04-13T07:52:16+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/make-a-girlfriend-mist.pdf</loc>
   <lastmod>2016-04-13T08:18:55+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/next-next-day-mist.pdf</loc>
   <lastmod>2016-04-13T07:29:24+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/one-times-mist.pdf</loc>
   <lastmod>2016-09-04T10:34:51+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/personal-issues-mist.pdf</loc>
   <lastmod>2016-04-13T09:02:14+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/take-a-rest-mist.pdf</loc>
   <lastmod>2016-04-13T06:22:43+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/these-days-mist.pdf</loc>
   <lastmod>2016-07-22T18:23:06+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/toilet-mist.pdf</loc>
   <lastmod>2016-04-01T15:56:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/facing-our-fears-article.pdf</loc>
   <lastmod>2016-03-27T11:32:12+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/human-brain-article.pdf</loc>
   <lastmod>2016-03-26T17:56:32+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/aging-korean-society-article.pdf</loc>
   <lastmod>2016-04-03T11:23:17+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/travel-vocab-lesson.pdf</loc>
   <lastmod>2017-01-08T12:46:00+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/travel-quiz-lesson.pdf</loc>
   <lastmod>2016-09-12T08:37:35+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/time-since-for-lesson.pdf</loc>
   <lastmod>2016-09-07T08:42:37+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/time-of-day-lesson.pdf</loc>
   <lastmod>2016-06-13T16:16:26+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://www.eslhandout.com/pdf/discussing-food-lesson.pdf</loc>
   <lastmod>2016-04-13T14:31:09+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
+
+
 </urlset>
